@@ -1,0 +1,23 @@
+{
+  "name": "ytupdatecommentovervolt",
+  "version": "1.0.0",
+  "description": "Script in node.js che aggiorna automaticamente il mio commento in base al numero di like",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/metiu19/YTUpdateCommentOverVolt.git"
+  },
+  "author": "Metiu19",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/metiu19/YTUpdateCommentOverVolt/issues"
+  },
+  "homepage": "https://github.com/metiu19/YTUpdateCommentOverVolt#readme",
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "googleapis": "^66.0.0"
+  }
+}
