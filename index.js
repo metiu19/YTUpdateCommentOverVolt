@@ -35,8 +35,8 @@ const UpdateComment = () => {
           "etag": "LdwUp1AbGwLq6kedivSq0VtBrD4",
           "id": "Ugw_aX7Of9tw_xYy_pp4AaABAg.9H84HPRKtP49H9y5pf2Q_6",
           "snippet": {
-            "textDisplay": `Ora sono ${Views}\u003cbr /\u003e\u003cbr /\u003eUltimo aggiornamento: ${Hours}:${Minutes}\u003cbr /\u003e(Script in Node.js, Domenica rilascio il sorgente)`,
-            "textOriginal": `Ora sono ${Views}\n\nUltimo aggiornamento: ${Hours}:${Minutes}\n(Script in Node.js, Domenica rilascio il sorgente)`,
+            "textDisplay": `Ora sono ${Views}\u003cbr /\u003e\u003cbr /\u003eUltimo aggiornamento: ${Hours}:${Minutes}\u003cbr /\u003e(Script in Node.js, sorgente rilasciato su github)`,
+            "textOriginal": `Ora sono ${Views}\n\nUltimo aggiornamento: ${Hours}:${Minutes}\n(Script in Node.js, sorgente rilasciato su github)`,
             "parentId": "Ugw_aX7Of9tw_xYy_pp4AaABAg",
             "authorDisplayName": "metiu19",
             "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AAUvwnjFo1M4ppxLTGFuZFmB57cjLzrxAgQwENqLito_=s48-c-k-c0xffffffff-no-rj-mo",
