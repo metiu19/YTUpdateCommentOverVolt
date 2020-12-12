@@ -52,7 +52,7 @@ const UpdateComment = () => {
           }
         }
   })
-  setInterval(() => GetLike(), 600000)
+  setInterval(() => GetLike(), 3600000)
 }
 
 GetLike();
