@@ -9,8 +9,9 @@ OAuth2Client.setCredentials({
 
 const youtube = google.youtube({version: 'v3', auth: OAuth2Client});
 
+var Views = 0;
+
 const GetLike = () => {
-  var Views = 0;
   google.youtube('v3').comments.list({
       key: process.env.YTKey,
       part: 'id, snippet',
